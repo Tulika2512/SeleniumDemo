@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="CustomListners"></listener>
+
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/hp/eclipse-workspace/ MyWorkSpace/SeleniumDemo/src/test/java/TestPlan.java">
+        <classes>
+            <class name="TestPlan"></class>
+        </classes>
+
+    </test>
+</suite>
